@@ -100,7 +100,7 @@ pip install numpy pandas scikit-learn xgboost lightgbm matplotlib seaborn
 * Machine learning research on defect prediction
 * Benchmarking ML/Ensemble models
 * IEEE and conference paper implementation
-* Comparative study for M.Tech/B.Tech projects
+  
 
 ---
 
